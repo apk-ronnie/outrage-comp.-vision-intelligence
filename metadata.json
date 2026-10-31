@@ -1,0 +1,6 @@
+{
+  "name": "AgriLens - Visual AI Crop Advisory",
+  "description": "AI-powered crop diagnosis, interactive 3D field intelligence, and practical agricultural guidance in one place.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
